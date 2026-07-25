@@ -24,12 +24,12 @@ The purpose of the repository is to document my progress, showcase practical net
 
   # Projects
   
-### 01 - Basic LAN 
+### 01 - Small Office LAN 
 - Static IP Addressing
 - Switch Configuration
 - PC-to-PC Connectivity
 
-  ### 02 - Routing Between Networks
+  ### 02 - Multi Department Office Network
 - Two Switches
 - Cisco Router
 - Multiple Subnets
