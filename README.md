@@ -25,10 +25,13 @@ The purpose of the repository is to document my progress, showcase practical net
   # Projects
   
 ### 01 - Small Office LAN 
+
+Designed and configured a small office LAN using a Cisco 2960 switch, three PCs, and a network printer.
+
 - Static IP Addressing
 - Switch Configuration
 - PC-to-PC Connectivity
-Designed and configured a small office LAN using a Cisco 2960 switch, three PCs, and a network printer.
+
 **View Project:** [01 - Small Office LAN](01-small-office-lan)
 
  ### 02 - Multi Department Office Network
