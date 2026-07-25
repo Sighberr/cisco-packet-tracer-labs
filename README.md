@@ -29,7 +29,7 @@ The purpose of the repository is to document my progress, showcase practical net
 - Switch Configuration
 - PC-to-PC Connectivity
 
-  ### 02 - Multi Department Office Network
+ ### 02 - Multi Department Office Network
 - Two Switches
 - Cisco Router
 - Multiple Subnets
