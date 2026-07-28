@@ -45,8 +45,11 @@ Designed and configured a routed office network with separate Accounting and Sal
 **View Project:** [02 - Multi-Department Office Network](02-multi-department-office-network)
 
 ### 03 - DHCP Server
+Configured DHCP to automatically assign IP addresses to client devices in a multi-department office network.
 
-Coming Soon...
+- Configured DHCP for client devices.
+- Assigned IP addresses automatically.
+- Verified network connectivity.
 
 ### 04 - DNS
 
